@@ -1,5 +1,6 @@
 # aaye (आय)
-A simple invoicing and accounting app for freelancers
+A simple invoicing and accounting app for freelancers.
+
 Aaye means revenue in hindi. 
 
 # License
