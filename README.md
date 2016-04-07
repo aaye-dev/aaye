@@ -4,7 +4,8 @@ A simple invoicing and accounting app for freelancers.
 Aaye means revenue in hindi. 
 
 # Join & Discuss
-You can join our IRC channel [#aaye](http://webchat.freenode.net/?channels=%23aaye) on irc.freenode.net 
+Join the [#aaye](https://dev-s.slack.com/messages/aaye) channel on [Devs and Hackers](https://dev-s.slack.com)
+Slack Team. You can get an invite at [https://join.theindiangeek.in/](https://join.theindiangeek.in)
 
 # License
 [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html)
